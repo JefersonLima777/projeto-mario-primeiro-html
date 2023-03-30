@@ -1,2 +1,10 @@
 # meu-primeiro-projeto-mario-o-filme
-Meu primeiro projeto feito em HTML/CSS/JAVASCRIPT
+Projeto teste, colocando em prática os estudos de desenvolvimento
+
+## Tecnologias utilizadas
+- HTML
+- CSS
+- JS
+
+### Utilidade
+Ver trailer e sinopse do filme Mario
